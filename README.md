@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gr4bson
-- 👀 I’m interested in using Pythom for data mining and web development
+- 👀 I’m interested in using Python for data mining and web development
 - 🌱 I’m currently learning Python from scratch.
 - 💞️ I’m looking to collaborate on best learning practices, finding good online courses and knowledge sources.
 - 📫 How to reach me... 
